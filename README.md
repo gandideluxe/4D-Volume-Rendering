@@ -1,1 +1,4 @@
-# 4D-Volume-Rendering
+fensterchen
+===========
+
+Framework for exercise 02.
